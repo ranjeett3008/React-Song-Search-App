@@ -1,0 +1,9 @@
+.highlight{
+    color:#ffd63f;
+  }
+
+.centeredItems{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
